@@ -1,0 +1,34 @@
+pulse,systolic_pressure,diastolic_pressure,blood_pressure,health,steps,calendar,plans,meetings,time,weather,weight,sleep,food,stress
+65,108,76,108/76,good,1000,running,running,10 a.m. meeting,today,sunny,50,8,potatoes,high. Take a few deep breaths.
+85,112,79,112/79,normal,2000,swimming,swimming,12 p.m. meeting with director,yesterday,21 degrees,51,5,salad,low
+55,120,90,120/90,very good,3000,go shopping,go shopping,conference at 2 p.m.,tomorrow,sunny,52,9,pancakes,normal
+60,102,77,102/77,perfect,1010,sitting,sitting,meeting at 5 p.m.,1,rainy,51,8,salad,low
+100,110,79,110/79,very good,1200,watching TV,watching TV,10 a.m. meeting,2,rainy,50,9,pancakes,normal
+65,120,78,120/78,good,1900,cooking,cooking,12 p.m. meeting with director,3,sunny,49,6,salad,low
+56,121,90,121/90,normal,1999,running,running,10 a.m. meeting,4,21 degrees,50,6,potatoes,high. Take a few deep breaths.
+67,109,93,109/93,bad,2000,gym,gym,meeting at 5 p.m.,5,22 degrees,51,7,ratatouille,low
+64,109,78,109/78,not good,3000,go shopping,go shopping,talk with manager,6,30 degrees,51,7,vegetables,normal
+34,110,73,110/73,very bad,4000,relax,relax,manager meeting,7,rainy,51,7,chocolate,low
+23,120,87,120/87,good,10000,yoga,yoga,team meeting,8,sunny,52,5,salad,low
+12,111,88,111/88,normal,1000,treadmill,treadmill,conference at 2 p.m.,9,windy,52,4,salad,low
+43,114,83,114/83,not normal,500,running,running,conference at 1 p.m.,10,10 degrees,52,7,chicken,high. Take a few deep breaths.
+54,115,82,115/82,very good,300,swimming,swimming,meeting at 5 p.m.,11,12 degrees ,51,8,beef,normal
+23,117,90,117/90,excellent,3000,sitting,sitting,10 a.m. meeting,12,rainy,51,10,steak,low
+54,121,87,121/87,great,5000,relax,relax,12 p.m. meeting with director,13,windy,50,11,salad,high. Take a few deep breaths.
+32,109,84,109/84,good,2000,shopping,shopping,10 a.m. meeting,14,sunny,50,8,vegetables,low
+54,103,83,103/83,bad,100,coding,coding,manager meeting,15,23 degrees,50,8,chocolate,normal
+23,106,77,106/77,very bad,900,reading,reading,meeting at 5 p.m.,16,21 degrees,49,9,candy,normal
+54,104,79,104/79,good,200,watching TV,watching TV,conference at 1 p.m.,17,23 degrees,49,9,pancakes,normal
+65,118,76,118/76,very good,5000,eating,eating,conference at 4 p.m.,18,21 degrees,49,10,salad,normal
+76,124,81,124/81,normal,6000,cooking,cooking,talk with manager,19,10 degrees,49,6,potatoes,high. Take a few deep breaths.
+70,123,76,123/76,not good,9000,running,running,team meeting,20,sunny,48,6,candy,high. Take a few deep breaths.
+65,114,78,114/78,not normal,12000,walking,walking,conference at 1 p.m.,21,windy,48,7,ratatouille,low
+76,115,89,115/89,great,1210,gym,gym,meeting at 5 p.m.,22,rainy,49,9,salad,normal
+55,117,88,117/88,excellent,2000,shopping,shopping,conference at 1 p.m.,23,23 degrees,49,8,chicken,high. Take a few deep breaths.
+87,102,90,102/90,good,1000,flying,flying,10 a.m. meeting,24,21 degrees,49,12,pork,high. Take a few deep breaths.
+100,109,90,109/90,very bad,5000,coding,coding,12 p.m. meeting with director,25,29 degrees,49,8,candy,low
+67,110,91,110/91,bad,14400,walking,walking,manager meeting,26,30 degrees,50,8,chocolate,low
+58,115,92,115/92,good,1000,shopping,shopping,conference at 1 p.m.,27,sunny,50,6,chicken,normal
+90,112,87,112/87,normal,2300,treadmill,treadmill,meeting at 5 p.m.,28,rainy,50,6,salad,normal
+100,113,89,113/89,normal,4000,walking,walking,team meeting,29,windy,50,8,steak,normal
+80,116,89,116/89,good,1000,go shopping,go shopping,conference at 1 p.m.,30,21 degrees,49,9,vegetables,low

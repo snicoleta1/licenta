@@ -1,0 +1,124 @@
+session_config:
+  session_expiration_time: 0
+  carry_over_slots_to_new_session: true
+intents:
+- greet
+- goodbye
+- affirm
+- deny
+- mood_great
+- mood_unhappy
+- bot_challenge
+- pulseIntent
+- blood_pressureIntent
+- stepsIntent
+- calendarIntent
+- healthIntent
+- sleepIntent
+- timeIntent
+- weightIntent
+- weatherIntent
+- credentialsIntent
+- pageIntent
+- personIntent
+- foodIntent
+- stressIntent
+entities:
+- pulse
+- calendar
+- blood_pressure
+- health
+- steps
+- food
+- sleep
+- stress
+- time
+- weather
+- weight
+- today
+- tomorrow
+- yesterday
+- display_actions
+- page_type
+- say_actions
+- target
+- user
+- display_action
+slots:
+  blood_pressure:
+    type: text
+  calendar:
+    type: text
+  display_actions:
+    type: text
+  food:
+    type: text
+  health:
+    type: text
+  page_type:
+    type: text
+  pulse:
+    type: text
+  say_actions:
+    type: text
+  sleep:
+    type: text
+  steps:
+    type: text
+  stress:
+    type: text
+  target:
+    type: text
+  time:
+    type: text
+  today:
+    type: text
+  weather:
+    type: text
+  weight:
+    type: text
+  yesterday:
+    type: text
+responses:
+  utter_greet:
+  - text: Hey! How are you?
+  utter_cheer_up:
+  - image: https://i.imgur.com/nGF1K8f.jpg
+    text: 'Here is something to cheer you up:'
+  utter_did_that_help:
+  - text: Did that help you?
+  utter_happy:
+  - text: Great, carry on!
+  utter_goodbye:
+  - text: Bye
+  utter_person:
+  - text: I am a bot, powered by Rasa.
+  utter_repeat:
+  - text: Can you please repeat?
+  - text: Sorry, I didn't get that. Can you repeat?
+  utter_incorrect_credentials:
+  - text: You are not allowed to see this information.
+actions:
+- action_ask_about_credentials
+- action_ask_about_pulse
+- action_ask_about_blood_pressure
+- action_ask_about_steps
+- action_ask_about_health
+- action_ask_about_calendar
+- action_ask_about_weather
+- action_ask_about_weight
+- action_ask_about_sleep
+- action_ask_about_time
+- action_ask_about_person
+- action_ask_about_page_type
+- action_ask_about_food
+- action_ask_about_stress
+- utter_greet
+- utter_cheer_up
+- utter_did_that_help
+- utter_happy
+- utter_goodbye
+- utter_iamabot
+- utter_repeat
+- utter_incorrect_credentials
+- utter_person
