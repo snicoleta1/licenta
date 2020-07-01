@@ -1,0 +1,6 @@
+number of steps
+steps
+steps number
+fitness
+walk
+walked
